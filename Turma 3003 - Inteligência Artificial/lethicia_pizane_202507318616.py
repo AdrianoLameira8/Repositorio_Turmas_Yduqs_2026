@@ -31,7 +31,3 @@ y_pred = model.predict(X_test_scaled)
 accuracy = accuracy_score(y_test, y_pred)
 print(f'Accuracy: {accuracy:.2f}%')
 # acurácia do modelo final
-
-
-
-
